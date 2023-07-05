@@ -8,7 +8,7 @@
 
 1、生成本项目。
 
-2、将Configs文件夹中的文件复制到生成的目录中（Debug或者Realse）
+2、将Configs文件夹中的文件复制到生成的目录中（Debug或者Release）
 
 3、修改DomainConfig.ini文件中的配置。
 
@@ -47,7 +47,7 @@ This program is a system service that automatically checks its IP address at reg
 
 
 
-2. Copy the files in the Configs folder to the generated directory (Debug or Realse)
+2. Copy the files in the Configs folder to the generated directory (Debug or Release)
 
 
 

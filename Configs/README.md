@@ -1,6 +1,6 @@
 # 配置文件使用说明
 ---
-1、你需要复制这里的文件到你的Debug目录或者Realease目录，生成的程序会在exe文件所在的目录寻找DomainConfig.ini。
+1、你需要复制这里的文件到你的Debug目录或者Release目录，生成的程序会在exe文件所在的目录寻找DomainConfig.ini。
 
 2、install.ps1和uninstall.ps1文件是powershell脚本，分别用来安装系统服务和卸载系统服务，需要用管理员身份运行。
 
@@ -13,7 +13,7 @@
 
 ---
 
-1. You need to copy the files here to your Debug directory or Realase directory, and the generated program will search for DomainConfig.ini in the directory where the exe file is located.
+1. You need to copy the files here to your Debug directory or Release directory, and the generated program will search for DomainConfig.ini in the directory where the exe file is located.
 
 
 
